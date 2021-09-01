@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @9themperor
 - 👀 I’m interested in "'coding' 'to create my own digital world'" 
-- 🌱 I’m currently learning <Java full stack>
+- 🌱 I’m currently learning <Java-full-stack>
 - 💞️ I’m looking to collaborate on <<git>>
 - 📫 How to reach me 'just ping me in Git'
 
